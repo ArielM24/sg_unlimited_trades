@@ -3,13 +3,13 @@
 	"id": "sg-unlimited-trades",
 	"version": "${version}",
 	"name": "SG Unlimited Trades",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A simple mod to reset trades when open the gui of a villager",
 	"authors": [
-		"Me!"
+		"ArielM24"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/ArielM24/sg_unlimited_trades",
+		"sources": "https://github.com/ArielM24/sg_unlimited_trades"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/sg-unlimited-trades/icon.png",
